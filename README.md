@@ -1,1 +1,1 @@
-![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/SUMMARY_DASHBOARD.png?raw=true).
+![alttext](https://github.com/Saichandu19/PHARMACY-MANAGEMENT-SYSTEM-DBMS/blob/main/Relation%20Schema.png?raw=true).
